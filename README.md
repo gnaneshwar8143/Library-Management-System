@@ -105,16 +105,26 @@ http://localhost/Library_Management/
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Screenshots
 
-Add screenshots of:
+### 🏠 Home Page
 
-* Home Page
-* Admin Dashboard
-* Student Dashboard
-* Login Page
-* Book Management
-* Borrow Book Page
+<img src="https://github.com/user-attachments/assets/c31a8c74-f75c-47e1-b0ff-5f31a0a03938" width="100%" alt="Home Page">
+
+---
+
+### 🔐 Login Page
+
+<img src="https://github.com/user-attachments/assets/12ab8062-94d4-426a-9c64-504ff008a109" width="100%" alt="Login Page">
+
+---
+
+### 👨‍💼 Admin Dashboard
+
+<img src="https://github.com/user-attachments/assets/c0db084e-8768-4e71-945c-f1d5f972940f" width="100%" alt="Admin Dashboard">
+
+---
+
 
 ---
 
